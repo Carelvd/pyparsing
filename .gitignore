@@ -1,3 +1,15 @@
+docs/**
+**/__pycache__
+examples/**
+htmldoc/**
+*.egg-info
+pyparsing-*/**
+
+**/*.jpg
+**/*.png
+
+**/*.zip
+
 # Created by https://www.gitignore.io/api/python,pycharm
 
 ### PyCharm ###
